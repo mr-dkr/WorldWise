@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Arraiolos",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-08-29T06:14:10.794Z",
+      "notes": "Amazing",
+      "position": {
+        "lat": "38.82259097617713",
+        "lng": "-8.085937500000002"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Silves",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-08-29T07:19:50.253Z",
+      "notes": "Done",
+      "position": {
+        "lat": "37.31775185163688",
+        "lng": "-8.217773437500002"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Marchena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-29T07:20:51.447Z",
+      "notes": "Create",
+      "position": {
+        "lat": "37.33522435930641",
+        "lng": "-5.3173828125"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Navalmoral de la Mata",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-29T08:07:01.415Z",
+      "notes": "",
+      "position": {
+        "lat": "39.8928799002948",
+        "lng": "-5.603027343750001"
+      },
+      "id": 98443201
+    }
+  ]
+}
