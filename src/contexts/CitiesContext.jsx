@@ -6,7 +6,7 @@ import {
   useReducer,
 } from "react";
 
-const BASE_URL = "https://world-wise-ivory.vercel.app";
+const BASE_URL = "http://localhost:9000";
 
 const CitiesContext = createContext();
 
